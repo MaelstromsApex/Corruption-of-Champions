@@ -266,8 +266,7 @@
             </text>
             <text name="night">
                 Diva is likely hunting a fair the distance away from the camp through you could call her back at any time.
-            </text>
-        </lib>
+            </text>        </lib>
         <lib name="campInteraction">
             <text name="dusk">
                 Diva is belting a few bottles as she ready up for tonight hunt.
@@ -291,10 +290,10 @@
             <lib name="moonlightSonata">
                 <lib name="intro">
                     <text name="camp">
-                        The both of you head back to her castle for a more comfortable bedroom.
-                        Once you are sitting on the bed,you two enjoy some idle chat before moving on as Diva close her wings around you in an almost possessive way and bites your neck.
+                        The both of you head back to her castle, your intended destination being her comfortable bedroom.
+                        Once you are sitting on the bed,you two enjoy some idle chatter before moving on as Diva close her wings around you in an almost possessive way and bites your neck.
                         Her bite is as pleasurable as ever and you feel at peace with letting her drink your blood.
-                        You're not the only one aroused as the vampire clearly seems to also get off on this, looking reder by the second.
+                        You're not the only one aroused as the vampire clearly seems to also get off on this, her cheeks growing a deeper shade of red.
                         Diva breaks the embrace, her face red as a tomato as her hand slowly move downward.
                     </text>
                     <text name="combat">
